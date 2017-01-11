@@ -6,5 +6,6 @@ gem "fastlane"
 gem "slather"
 gem "xcov"
 gem "danger"
+gem 'danger-xcov'
 gem 'danger-slather'
 gem 'danger-xcov'
